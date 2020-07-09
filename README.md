@@ -4,11 +4,11 @@ Code for over 20+ years. Grew up with the web. Still feel like a junior develope
 
 #### 🔭 I’m currently working on ...
 
-Editorial tools for @mailonline. Few minor repos just for fun.
+Editorial tools for [@mailonline](https://github.com/MailOnline). Few minor repos just for fun.
 
 #### 🌱 I’m currently learning ...
 
-@11ty, all new things in JavaScript, refreshing my Java and Python skills.
+[@11ty](https://github.com/11ty/eleventy), all new things in JavaScript, refreshing my Java and Python skills.
 
 #### 👯 I’m looking to collaborate on ...
 
@@ -24,7 +24,7 @@ JavaScript and other web related topics.
 
 #### 📫 How to reach me: ...
 
-Tweet me at @sielay (private) or @CodeRebased (tech).
+Tweet me at [@sielay](https://twitter.com/sielay) (private) or [@CodeRebased](https://twitter.com/CodeRebased) (tech).
 
 #### 😄 Pronouns: ...
 
