@@ -32,5 +32,5 @@ He/Him
 
 #### ⚡ Fun fact: ...
 
- - My friends asked me to challange once local law limiting freedom of beer consumption outdoors and by accidentent it turned into nationwide action.
+ - My friends asked me to challange once a local law, which was limiting freedom of beer consumption outdoors. By accident it turned into nationwide action.
 
