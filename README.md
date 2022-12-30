@@ -39,6 +39,9 @@
   
  * 💼 [LinkedIn](https://linkedin.com/in/sielay)
  * 🎥 [TikTok](http://tiktok.com/@shouldyoubecomedeveloper) 
+ * 📹 [YouTube](https://www.youtube.com/channel/UChzpCoVwXu2ii_UQkuGEQGQ)
+ * 🤳 [Instagram](https://www.instagram.com/shouldyoubecomedeveloper/)
+ * 🤡 [Facebook](https://www.facebook.com/becomingdeveloper/)
   
  </td>
  </tr>
