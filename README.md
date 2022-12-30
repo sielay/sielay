@@ -1,6 +1,6 @@
 ## Łukasz Marek Sielski (sielay or Wookie 🐻)
 
-<table><tr><td width="75%" valign="top">
+<table><tr><td width="75%" valign="top" colspan="2">
  
  * Code for over 20+ years
  * Pascal 👉 Delphi 👉 C# 👉 PHP 👉 JavaScript 👉 TypeScript)
@@ -11,8 +11,9 @@
  * Got few badges for OS projects
  * Contribute because I use
  * Publish because I love to contribute
+
  </td>
- <td width="25%" valign="top">
+ <td width="25%" valign="top" rowspan="2">
   
  ### Twitter 
   
@@ -41,4 +42,12 @@
   
  </td>
  </tr>
+ <tr><td>
+  
+  <a href="https://becomingdeveloper.com" target="_blank"><img src="https://becomingdeveloper.com/cover.png"/></a>
+  </td><td>
+  
+   [![](tiktok.png)](https://www.tiktok.com/@shouldyoubecomedeveloper/video/7118695416593452294)
+  
+  </td></tr>
 </table> 
