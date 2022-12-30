@@ -1,36 +1,44 @@
-### Łukasz Marek Sielski (sielay)
+## Łukasz Marek Sielski (sielay or Wookie 🐻)
 
-Code for over 20+ years. Grew up with the web. Still feel like a junior developer.
-
-#### 🔭 I’m currently working on ...
-
-Editorial tools for [@mailonline](https://github.com/MailOnline). Few minor repos just for fun.
-
-#### 🌱 I’m currently learning ...
-
-[@11ty](https://github.com/11ty/eleventy), all new things in JavaScript, refreshing my Java and Python skills.
-
-#### 👯 I’m looking to collaborate on ...
-
-OpenSource projects improving freedom of information, transparency and public space security (including road traffic safety).
-
-#### 🤔 I’m looking for help with ...
-
-Kicking off your career in the software development.
-
-#### 💬 Ask me about ...
-
-JavaScript and other web related topics.
-
-#### 📫 How to reach me: ...
-
-Tweet me at [@sielay](https://twitter.com/sielay) (private) or [@CodeRebased](https://twitter.com/CodeRebased) (tech).
-
-#### 😄 Pronouns: ...
-
-He/Him
-
-#### ⚡ Fun fact: ...
-
- - My friends asked me to challange once a local law, which was limiting freedom of beer consumption outdoors. By accident it turned into nationwide action.
-
+<table><tr><td width="75%" valign="top">
+ 
+ * Code for over 20+ years
+ * Pascal 👉 Delphi 👉 C# 👉 PHP 👉 JavaScript 👉 TypeScript)
+ * Grew up together with the web
+ * Learner and imposter forever
+ * Wrote a book for people interested in the IT [Should you Become a Software Developer?](https://becomingdeveloper.com)
+ * Head of Software Development CMS, buidling editorial tools for [@mailonline](https://github.com/MailOnline)
+ * Got few badges for OS projects
+ * Contribute because I use
+ * Publish because I love to contribute
+ </td>
+ <td width="25%" valign="top">
+  
+ ### Twitter 
+  
+  * 🤖 [@CodeRebased](https://twitter.com/CodeRebased) 
+  * 💬 [@sielay](https://twitter.com/sielay)
+  * 🚴 [@phonekills](https://twitter.com/phonekills)
+  
+ ### Websites
+  
+   * 👨‍💻 [Virtual CTO](https://becomingdeveloper.com/cto)
+   * 📖 [Book](https://becomingdeveloper.com)
+   * 🥼 [Shouldyou.co](https://shouldyou.co) Expierment
+   * 📵 [PhoneKills](https://phonekills.co.uk) Road Safety
+   * 🕸️ [Unloved blog](https://sielay.com)
+  
+ ### Mastodon
+  
+  * 🤖 [@becomingdeveloper@techhub.social](https://techhub.social/@becomingdeveloper)
+  * 💬 [@sielay@masto.ai](https://masto.ai/@sielay)
+  * 🚴 [@phonekills@c.im](https://c.im/@phonekills)
+  
+ ### Other social
+  
+ * 💼 [LinkedIn](https://linkedin.com/in/sielay)
+ * 🎥 [TikTok](http://tiktok.com/@shouldyoubecomedeveloper) 
+  
+ </td>
+ </tr>
+</table> 
